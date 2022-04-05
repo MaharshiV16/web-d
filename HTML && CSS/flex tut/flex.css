@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  font-size: 21px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 48px;
+  margin: 0;
+}
+
+h2 {
+  font-size: 36px;
+}
+
+h3 {
+  font-size: 28px;
+}
+
+header {
+  background-color: #588c94;
+  color: white;
+  text-align: center;
+  padding: 50px 0;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.intro {
+  width: 500px;
+  margin: 100px auto;
+}
+
+.my-skills {
+  background-color: #1d3c41;
+  color: white;
+  padding: 75px 0px;
+}
+
+.columns {
+  width: 750px;
+  display: flex;
+  margin: auto;
+}
+
+.column {
+  margin: 0 20px;
+}
