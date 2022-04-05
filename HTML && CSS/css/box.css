@@ -1,0 +1,20 @@
+body {
+  background-color: #333;
+  color: whitesmoke;
+}
+
+header {
+  background-color: white;
+  color: #333;
+  width: fit-content;
+}
+
+main {
+  background-color: lightblue;
+  color: #333;
+  width: 400px;
+  height: 300px;
+  /* avoid setting height */
+  margin: 50px;
+  padding: 50px;
+}
