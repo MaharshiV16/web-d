@@ -19,3 +19,23 @@ h2 {
 p {
   color: greenyellow;
 }
+
+.heading {
+  color: crimson;
+  font-weight: 800;
+}
+
+.strong {
+  color: cornflowerblue;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 20px;
+}
+
+.det {
+  color: darksalmon;
+}
+
+#nav {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
