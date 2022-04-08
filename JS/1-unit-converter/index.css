@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.show {
+  background: linear-gradient(246.26deg, #585dfe 0%, #fb3796 100%);
+  margin: 0;
+  padding: 50px;
+}
+
+.showcase {
+  text-align: center;
+  width: fit-content;
+  margin: auto;
+}
+
+.showcase-head {
+  color: white;
+  font-size: 28px;
+}
+
+.showcase-head-c {
+  color: white;
+  font-size: 110px;
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+
+.conversions {
+  text-align: center;
+  margin: auto;
+  background: #fbf7ee;
+  padding: 50px;
+}
+
+.con-head {
+  font-size: 18px;
+  color: #1a1921;
+  margin: 0;
+}
+
+.con-text {
+  font-size: 14px;
+  color: #4e4e4e;
+}
