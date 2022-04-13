@@ -1,0 +1,30 @@
+body {
+  background-image: url("https://images.unsplash.com/photo-1601370690183-1c7796ecec61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
+  background-size: cover;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-weight: bold;
+}
+
+h1 {
+  color: goldenrod;
+}
+
+#message-el {
+  font-style: italic;
+}
+
+.btn {
+  display: block;
+  background-color: goldenrod;
+  width: 150px;
+  padding: 10px;
+  font-weight: bolder;
+  margin: auto auto 10px;
+  color: #016f32;
+  border: none;
+  border-radius: 2px;
+}
